@@ -1,4 +1,4 @@
-### **📜 GhostData: Protect Your Files, Protect Your Privacy**  
+### **👻 GhostData: Protect Your Files, Protect Your Privacy**  
 ![GhostData Logo](ghost_data.png)  
 
 ---
